@@ -1,0 +1,28 @@
+.header-top {
+    background-image: url("../img/pF1aFBG3Hx5cQyHWIdZaLsnmOJR.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 35%;
+    height: 35vh;
+}
+
+.header-top2 {
+    /* border: 1px solid red; */
+    background-color: rgba(0, 0, 0, 0.418);
+    height: 35vh;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+} 
+
+.sec-02, 
+footer {
+    background-color: rgba(0, 19, 140, 0.418);
+    color: #fff;
+}
+
+.sec-02 i {
+    font-size: 3em;
+}
